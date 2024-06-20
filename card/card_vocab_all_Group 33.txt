@@ -1,0 +1,63 @@
+adulterate=To make something poorer in quality by adding another substance; The chef was accused of adulterating the soup with cheaper ingredients; Think of "adult" contaminating something pure.
+
+advocate=To publicly support or recommend a particular cause or policy; She advocates for human rights issues at various international platforms; Relate "ad-" (toward) and "vocate" (voice) as giving voice towards a cause.
+
+affluent=Having a great deal of wealth or financial resources; The affluent neighborhood was known for its luxurious mansions and high-end shops.
+
+allegorical=Containing allegory, or a story or image that symbolizes a deeper meaning; The painting was allegorical, representing the struggle between good and evil.
+
+allude=To make a reference to something indirectly or casually; The author alluded to a famous historical event in her novel.
+
+amplify=To make something louder, stronger, or more significant; The speaker used a microphone to amplify her voice during the presentation.
+
+catastrophic=Involving or causing a sudden and widespread disaster; The hurricane had catastrophic effects on the coastal town, destroying homes and infrastructure.
+
+contemporary=Belonging to the present time; The artist's work is considered contemporary and reflects current social issues.
+
+conundrum=A confusing and difficult problem or question; Solving the conundrum of how to balance work and personal life is a common challenge.
+
+defame=To damage the reputation of someone through false statements or accusations; The tabloid's article aimed to defame the actress by spreading rumors about her personal life.
+
+detract=To take away from the worth or value of something; The outdated furniture detracted from the overall aesthetic of the room.
+
+detrimental=Causing harm or damage; Smoking is detrimental to your health and can lead to serious illnesses.
+
+devious=Showing a skillful use of underhanded tactics to achieve goals; The con artist had a devious plan to scam unsuspecting victims.
+
+dormant=Inactive or temporarily suspended; The volcano had been dormant for centuries before suddenly erupting.
+
+draconian=Excessively harsh and severe; The dictator imposed draconian laws that restricted freedom of speech and assembly.
+
+egalitarian=Believing in or promoting equal rights for all people; The organization's mission is to create a more egalitarian society free from discrimination.
+
+elusive=Difficult to capture or understand; The concept of happiness can be elusive and means different things to different people.
+
+erstwhile=Former; In her erstwhile career as an actress, she starred in several successful films.
+
+gloat=To take pleasure in someone else's misfortune or failure; It's not polite to gloat about winning the game when others have lost.
+
+harrowing=Extremely distressing or traumatic; The survivor shared the harrowing details of her escape from the burning building.
+
+indefinite=Not clearly defined or specified; The meeting time was left indefinite, causing confusion among the participants.
+
+ingenious=Marked by cleverness or originality; The inventor came up with an ingenious solution to the problem using simple materials.
+
+keen=Having a sharp intellect or strong interest; She had a keen eye for detail and noticed things that others often missed.
+
+multifaceted=Having many different aspects or sides; The issue was multifaceted, requiring a comprehensive approach to address all its complexities.
+
+omniscient=Having complete or unlimited knowledge; The author wrote from an omniscient perspective, knowing the thoughts and actions of all characters.
+
+remarkable=Worthy of attention or extraordinary; Her remarkable talent for music earned her a scholarship to a prestigious conservatory.
+
+sober=Serious, solemn, or not intoxicated; He gave a sober speech at the funeral, honoring the memory of his friend.
+
+stem from=To originate from or be the result of something; The disagreement between the two colleagues stemmed from a misunderstanding in communication.
+
+subdued=Quiet, controlled, or toned down; The subdued lighting in the restaurant created a cozy and intimate atmosphere.
+
+token=A symbol or gesture representing something larger; He gave her a token of his affection, a small necklace with sentimental value.
+
+unravel=To solve or explain something complicated or mysterious; The detective worked tirelessly to unravel the mystery behind the missing jewels.
+
+withstand=To endure or resist a force or pressure; The sturdy building was able to withstand the powerful storm without sustaining damage.

@@ -1,0 +1,59 @@
+attribute=To regard something as being caused by a particular circumstance; She attributes her success to hard work and dedication; Think of "attribute" as giving credit to a specific quality.
+
+calamitous=Causing great harm or suffering; The earthquake had a calamitous impact on the town, leaving many homeless; Remember "calamity" when thinking of something disastrous.
+
+censor=To suppress or remove parts of a book, movie, etc., that are considered obscene or politically unacceptable; The government censors any content that goes against their ideology; Think of "censor" as someone who screens and filters information.
+
+champion=To support, defend, or fight for a cause or person; She champions the rights of marginalized communities in her activism; Imagine a champion as someone who fights for a victory.
+
+compound=To make something more intense or severe; The stress of work was compounded by family issues; Think of "compound" as adding layers to a situation.
+
+deter=To discourage someone from doing something; The high security measures are meant to deter thieves from breaking in; Think of "deter" as deterring someone from a certain action.
+
+dexterous=Skillful in using one's hands or body; The juggler's dexterous movements amazed the audience; Remember "dexterous" by associating it with being deft or agile.
+
+dictum=A formal pronouncement from an authoritative source; The judge's dictum set a precedent for future cases; Think of "dictum" as a decree or statement.
+
+dutiful=Showing a sense of duty or responsibility; The soldier was dutiful in carrying out his orders; Remember "duty" when thinking of being dutiful.
+
+empathetic=Showing empathy or understanding towards others' feelings; The therapist was empathetic towards her patients' struggles; Think of "empathetic" as being able to feel what others feel.
+
+ensue=To happen as a consequence; If you keep ignoring the warning signs, disaster will ensue; Remember "ensue" as something that follows as a result.
+
+fathom=To understand or comprehend something deeply; She couldn't fathom why he would betray her trust; Think of "fathom" as diving deep into understanding.
+
+frank=Open and honest in expressing thoughts or opinions; She appreciated his frank feedback on her work; Remember "frank" as being straightforward.
+
+germane=Relevant and appropriate to a particular subject; The professor's comments were not germane to the topic being discussed; Remember "germane" as being closely related.
+
+grumble=To complain or protest about something in a bad-tempered way; The students grumbled about the amount of homework they were assigned; Think of "grumble" as a low, discontented sound.
+
+hidebound=Unwilling or unable to change because of tradition or convention; The company's hidebound policies stifled innovation; Remember "hidebound" as being bound by old ways.
+
+hypocrite=Someone who pretends to have moral standards or beliefs that they do not actually possess; She called him a hypocrite for preaching honesty while lying to his own family; Remember "hypocrite" as someone who acts in contradiction to their stated beliefs.
+
+impolitic=Not politically wise or expedient; His impolitic comments during the debate cost him the election; Remember "impolitic" as lacking political tact.
+
+insidious=Gradually causing harm or destruction; The insidious nature of the disease made it difficult to detect early; Think of "insidious" as stealthily harmful.
+
+intermediary=A person who acts as a link between people in order to try to bring about an agreement; The lawyer served as an intermediary in the negotiations between the two parties; Think of "intermediary" as someone who stands between two parties.
+
+passive=Accepting or allowing what happens or what others do without active response or resistance; She felt too passive in the face of injustice and decided to take action; Remember "passive" as not actively engaging.
+
+raillery=Good-humored teasing or banter; The friends engaged in playful raillery during their game night; Think of "raillery" as playful, light-hearted teasing.
+
+ramble=To talk or write at length in a confused or inconsequential way; His speeches tend to ramble on without a clear point; Remember "ramble" as wandering off topic.
+
+resent=To feel bitterness or indignation at (a circumstance, action, or person); She resented her colleague's success and felt envious; Think of "resent" as feeling bitter again.
+
+residual=Remaining after the greater part or quantity has gone; The residual effects of the medication caused drowsiness; Remember "residual" as what is left over.
+
+resolve=To settle or find a solution to a problem; She resolved the conflict between her two friends by mediating a discussion; Think of "resolve" as finding a resolution.
+
+surrogate=A substitute, especially a person deputizing for another in a specific role or office; The surrogate mother carried the couple's baby to term; Think of "surrogate" as standing in for someone else.
+
+vilify=To speak or write about in an abusively disparaging manner; The tabloids constantly vilify celebrities for their personal lives; Remember "vilify" as spreading vile statements.
+
+wanting=Lacking in a certain area or regard; Her performance was wanting in terms of creativity and originality; Think of "wanting" as being deficient or lacking.
+
+willful=Deliberate or intentional, done on purpose; Despite knowing the rules, he made a willful decision to break them; Remember "willful" as having a strong will or intent.

@@ -1,0 +1,3 @@
+create definition and sample sentence for every word below in the following format:
+adulterate=To make something poorer in quality by adding another substance; The chef was accused of adulterating the soup with cheaper ingredients; Think of "adult" contaminating something pure.
+advocate=To publicly support or recommend a particular cause or policy; She advocates for human rights issues at various international platforms; Relate "ad-" (toward) and "vocate" (voice) as giving voice towards a cause.
