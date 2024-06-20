@@ -25,3 +25,13 @@ poetry run python3
 ```
 Change variable `vocab_file` into your vocabulary file name, the default value of `vocab_file` is `card_vocab_test`
 If you have a large number of vocab in your worksheet, I recommend you separate them into multiple groups of vocab. For example, I have 900 words, and I want to generate an explanation for them. It might more easily get an error if I input all the words in at once, or encounter token limitation. Alternatively, I separate them into 30 groups, which means 30 columns in the worksheet, so that the ChatGPT can deal with each group one by one.
+
+The generated content should be in this format
+```
+word1=definition;memory tips;sample sentence
+word2=definition;memory tips;sample sentence
+...
+```
+
+## Flash card
+Finally, you can copy the text in `/card/{vocab_file}.txt` and create flash card on Quizlet! Check the tutorial [here](https://help.quizlet.com/hc/en-us/articles/360029977151-Creating-sets-by-importing-content) if you are not familiar with it.
