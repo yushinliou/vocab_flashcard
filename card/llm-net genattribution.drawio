@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2024-06-29T13:18:38.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="g_5Wapo7z3irIx4VdXJZ" version="24.6.4" type="github">
+  <diagram name="Page-1" id="0ab0YiUcCw9NFMmSAEjI">
+    <mxGraphModel dx="842" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-2" value="&lt;b&gt;Age&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="94" y="470" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-3" value="&lt;b&gt;System Message:&amp;nbsp;&lt;/b&gt;&lt;span aria-labelledby=&quot;value&quot;&gt;You are a LLM agent. Please finish the following sentence. Your answer should be a interger.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cHwx9gf3yTWEn1hJEXx1-2" vertex="1">
+          <mxGeometry y="30" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-4" value="&lt;b&gt;Human message:&lt;/b&gt;&amp;nbsp;&lt;span aria-labelledby=&quot;value&quot;&gt;&quot;My gender identity is ____.&quot;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cHwx9gf3yTWEn1hJEXx1-2" vertex="1">
+          <mxGeometry y="100" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-6" value="&lt;b&gt;Generate attributions&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="94" y="50" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-7" value="&lt;b&gt;System Message:&amp;nbsp;&lt;/b&gt;&lt;span aria-labelledby=&quot;value&quot;&gt;You are a Large Language Model. You are tasked with generating agent name and attributions. For a siumlation understanding the behavior of LLM agents.&quot;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cHwx9gf3yTWEn1hJEXx1-6" vertex="1">
+          <mxGeometry y="30" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa06teY10HbQkFiMxiDc-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cHwx9gf3yTWEn1hJEXx1-6" target="cHwx9gf3yTWEn1hJEXx1-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="160" as="sourcePoint" />
+            <mxPoint x="210" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-8" value="&lt;b&gt;Human message:&lt;/b&gt;&amp;nbsp;&lt;span aria-labelledby=&quot;value&quot;&gt;Provide a list of unique English names, your answer should only contain a string formatted be directly converted into a Python list. The names should be enclosed in quotes and separated by commas. Without any markdown block or other text&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cHwx9gf3yTWEn1hJEXx1-6" vertex="1">
+          <mxGeometry y="80" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-9" value="&lt;b&gt;Gender&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="94" y="260" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-10" value="&lt;b&gt;System Message:&amp;nbsp;&lt;/b&gt;&lt;span aria-labelledby=&quot;value&quot;&gt;You are a LLM agent. Please finish the following sentence. Your answer should only have 1 word. Either female/male or other.&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cHwx9gf3yTWEn1hJEXx1-9" vertex="1">
+          <mxGeometry y="30" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-11" value="&lt;b&gt;Human message:&lt;/b&gt;&amp;nbsp;&lt;span aria-labelledby=&quot;value&quot;&gt;&quot;My gender identity is ____.&quot;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cHwx9gf3yTWEn1hJEXx1-9" vertex="1">
+          <mxGeometry y="100" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-12" value="&lt;b&gt;Currently&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="94" y="1440" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-13" value="&lt;b&gt;System Message:&amp;nbsp;&lt;/b&gt;&lt;span aria-labelledby=&quot;value&quot;&gt;&quot;You are a LLM agent. Please finish the following sentence. Your answer should be a sentence describe what are you currently doing? For example: I am currently pursuing a degree in psychology and volunteering at a local community center to help support individuals with mental health challenges.&quot;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cHwx9gf3yTWEn1hJEXx1-12" vertex="1">
+          <mxGeometry y="30" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-14" value="&lt;b&gt;Human message:&lt;/b&gt;&amp;nbsp;&lt;table aria-activedescendant=&quot;/agent_attribution_categories/status/human_message&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; aria-label=&quot;&quot; tabindex=&quot;0&quot; role=&quot;tree&quot; class=&quot;treeTable&quot;&gt;&lt;tbody tabindex=&quot;-1&quot; role=&quot;presentation&quot;&gt;&lt;tr class=&quot;treeRow stringRow opened selected&quot; aria-selected=&quot;true&quot; aria-level=&quot;3&quot; role=&quot;treeitem&quot; id=&quot;/agent_attribution_categories/status/human_message&quot;&gt;&lt;td style=&quot;--tree-label-cell-indent: 32px;&quot; role=&quot;presentation&quot; class=&quot;treeLabelCell&quot;&gt;&lt;span data-level=&quot;2&quot; aria-labelledby=&quot;default&quot; class=&quot;treeLabel stringLabel&quot;&gt;&lt;/span&gt;&lt;/td&gt;&lt;td role=&quot;presentation&quot; class=&quot;treeValueCell stringCell&quot;&gt;&lt;span aria-labelledby=&quot;value&quot;&gt;&quot;I currently ____.&quot;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cHwx9gf3yTWEn1hJEXx1-12" vertex="1">
+          <mxGeometry y="130" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-15" value="&lt;b&gt;Big 5 Personality&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="94" y="890" width="320" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-16" value="&lt;b&gt;System Message:&amp;nbsp;&lt;/b&gt;&lt;span aria-labelledby=&quot;value&quot;&gt;&quot;You are a LLM agent. Please finish the sentence&quot;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cHwx9gf3yTWEn1hJEXx1-15" vertex="1">
+          <mxGeometry y="30" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-17" value="&lt;b&gt;Human message:&lt;/b&gt;&amp;nbsp;In the fellowing sentences, please fill in the blank with number 1 to 5. 1 indicating strongly disagree and 5 indicating strongly agree.&lt;div&gt;I [1/2/3/4/5] I see myself as someone who is reserved&lt;/div&gt;&lt;div&gt;I [1/2/3/4/5] I see myself as someone who is generally trusting&lt;/div&gt;&lt;div&gt;I [1/2/3/4/5] I see myself as someone who tends to be lazy&lt;/div&gt;&lt;div&gt;I [1/2/3/4/5] I see myself as someone who is relaxed, handles stress well&amp;nbsp;&lt;/div&gt;&lt;div&gt;I [1/2/3/4/5] I see myself as someone who has few artistic interests&lt;/div&gt;&lt;div&gt;I [1/2/3/4/5] I see myself as someone who is outgoing, sociable&lt;/div&gt;&lt;div&gt;I [1/2/3/4/5] I see myself as someone who tends to find fault with others&lt;/div&gt;&lt;div&gt;I [1/2/3/4/5] I see myself as someone who does a thorough job&lt;/div&gt;&lt;div&gt;I [1/2/3/4/5] I see myself as someone who gets nervous easily&lt;/div&gt;&lt;div&gt;I [1/2/3/4/5] I see myself as someone who has an active imagination&lt;/div&gt;&lt;div&gt;Each number corresponds to your answer to the above sentence&#39;s complete task. The first number represents the answer to the first question, and so on. Write down your answer in the following form, for example: &amp;lt;3, 2, 5, 5, 3, 2, 4, 2, 2, 1&amp;gt;. Ensure your answer consists of 10 numbers, separated by commas.&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cHwx9gf3yTWEn1hJEXx1-15" vertex="1">
+          <mxGeometry y="100" width="320" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-18" value="&lt;b&gt;Race&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="94" y="680" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-19" value="&lt;b&gt;System Message:&amp;nbsp;&lt;/b&gt;&lt;span aria-labelledby=&quot;value&quot;&gt;&quot;You are a LLM agent. Please finish the following sentence. Your answer should only have 1 word. Either White, Black, Asian, Hispanic, Other.&quot;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cHwx9gf3yTWEn1hJEXx1-18" vertex="1">
+          <mxGeometry y="30" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cHwx9gf3yTWEn1hJEXx1-20" value="&lt;b&gt;Human message:&lt;/b&gt;&amp;nbsp;&lt;span aria-labelledby=&quot;value&quot;&gt;&quot;My race identity is ____.&quot;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cHwx9gf3yTWEn1hJEXx1-18" vertex="1">
+          <mxGeometry y="100" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa06teY10HbQkFiMxiDc-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHwx9gf3yTWEn1hJEXx1-11" target="cHwx9gf3yTWEn1hJEXx1-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="450" as="sourcePoint" />
+            <mxPoint x="264" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oa06teY10HbQkFiMxiDc-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.501;exitY=1.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cHwx9gf3yTWEn1hJEXx1-4" target="cHwx9gf3yTWEn1hJEXx1-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184" y="710" as="sourcePoint" />
+            <mxPoint x="234" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oa06teY10HbQkFiMxiDc-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.499;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHwx9gf3yTWEn1hJEXx1-20" target="cHwx9gf3yTWEn1hJEXx1-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264" y="980" as="sourcePoint" />
+            <mxPoint x="314" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oa06teY10HbQkFiMxiDc-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.499;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHwx9gf3yTWEn1hJEXx1-17" target="cHwx9gf3yTWEn1hJEXx1-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264" y="1380" as="sourcePoint" />
+            <mxPoint x="314" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
